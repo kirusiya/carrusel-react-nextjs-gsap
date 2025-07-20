@@ -28,7 +28,7 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [URL_DE_TU_REPOSITORIO]
+    git clone [URL_DE_TU_REPOSITORIO] https://github.com/kirusiya/carrusel-react-nextjs-gsap.git
     cd interactive-content-carousel
     ```
 
