@@ -28,7 +28,7 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [URL_DE_TU_REPOSITORIO]
+    git clone [URL_DE_TU_REPOSITORIO] https://github.com/kirusiya/carrusel-react-nextjs-gsap.git
     cd interactive-content-carousel
     ```
 
@@ -78,4 +78,15 @@ Las contribuciones son bienvenidas. Si encuentras un error o tienes una sugerenc
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-```
+
+---
+
+## 🔣 Developer   
+
+- 👨‍💻 **Ing. Edward Avalos** - *Full Stack Developer y Desarrollador Principal* - [GitHub](https://github.com/kirusiya/) | [LinkedIn](https://www.linkedin.com/in/edward-avalos-severiche/)
+- 📧 **Email**: edward@ajamba.org
+- 📱 **WhatsApp Business**: (+591) 61781119 | [Whatsapp](https://wa.me/59161781119)
+
+---
+
+*For technical support or questions about this implementation, please refer to the troubleshooting section or review the comprehensive code documentation within the project files.*
